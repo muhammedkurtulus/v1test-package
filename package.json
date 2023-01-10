@@ -1,0 +1,23 @@
+{
+  "name": "v1test-package",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "test.ts",
+  "scripts": {
+    "test": "echo 'Hello World'",
+    "start": "node test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muhammedkurtulus/v1test-package.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "muhammedkurtulus",
+  "license": "ISC",
+  "homepage": "https://github.com/muhammedkurtulus/v1test-package",
+  "dependencies": {
+    "ethers": "^5.7.2"
+  }
+}
